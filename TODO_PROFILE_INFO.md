@@ -4,7 +4,7 @@ Use this checklist to replace the temporary placeholders in the site.
 
 ## Already Provided
 
-- Display name: `codingCat06`
+- Display name: `Hyunmin Lee`
 - Public email: `codingcat@korea.ac.kr`
 - GitHub: `https://github.com/codingCat06`
 - LinkedIn: `https://www.linkedin.com/in/codingcat06/`
